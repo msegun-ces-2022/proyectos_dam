@@ -1,0 +1,2 @@
+Realizado por Manuel Alberto Segun Lopez como proyecto de dam en el año 2022
+Tecnologia utilizada VISUAL STUDIO 2019

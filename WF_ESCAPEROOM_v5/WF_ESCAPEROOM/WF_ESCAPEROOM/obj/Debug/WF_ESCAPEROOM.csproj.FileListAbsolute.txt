@@ -1,0 +1,50 @@
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_V3\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe.config
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.pdb
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.AssemblyReference.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Form1.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Properties.Resources.resources
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.GenerateResource.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.CoreCompileInputs.cache
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.exe
+E:\dam ciclo\Programacion\Proyectos programacion\3 Trimestre\escape room\WF_ESCAPEROOM_v4\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.pdb
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe.config
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.exe
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\bin\Debug\WF_ESCAPEROOM.pdb
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.AssemblyReference.cache
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Form1.resources
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.Properties.Resources.resources
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.GenerateResource.cache
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.csproj.CoreCompileInputs.cache
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.exe
+C:\Users\lenovo2021\Desktop\Subir\WF_ESCAPEROOM_v5\WF_ESCAPEROOM\WF_ESCAPEROOM\obj\Debug\WF_ESCAPEROOM.pdb
